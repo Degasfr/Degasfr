@@ -9,4 +9,4 @@
 - com o apoio da plataforma [alura](https://www.alura.com.br)
 
 
-![](https://tenor.com/bqWTJ.gif)
+![]( https://media.tenor.com/73pG648H03AAAAAM/james-hetfield.gif )
