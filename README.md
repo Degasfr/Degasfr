@@ -8,4 +8,4 @@
 
 - com o apoio da plataforma [alura](https://www.alura.com.br)
 
-![](https://tenor.com/pt-BR/view/rock-and-roll-guitar-rock-on-head-bang-playing-guitar-gif-15971238)
+![](https://tenor.com/bfa0M.gif)
