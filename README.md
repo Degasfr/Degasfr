@@ -8,4 +8,4 @@
 
 - com o apoio da plataforma [alura](https://www.alura.com.br)
 
-![](https://tenor.com/bfa0M.gif)
+![](https://tenor.com/bqWTJ.gif)
