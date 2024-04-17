@@ -2,7 +2,7 @@
 
 **Meu nome é Deganello**
 
-- estou no 1ano do ensino médio
+- estou no 2°ano do ensino médio
 
 - aprendendo a desenvolver sites com a matéria Pensamento Computacional
 
